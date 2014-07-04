@@ -16,8 +16,11 @@ I am planning to provide
 
 - ios_client (provides iOS Client)
 - android_client (provides Android Client)
-- apidoc (provides API document generation, which can try API request interactively on a document.)
 - javascript_client (provides JavaScript Client)
+- apidoc (provides API document generation, which can try API request interactively on a document.)
+- localpublic (provides a way to try API from your iPhone, Android without publishing the app.)
 - schema_smith (generates JSON Schema from ActiveModel, or other way.)
+
+All the tools are aimed at reducing a pain of developing API. Currently both consuming and publishing API are too painfull.
  
-And there are many wonderful gems & tools for JSON Schema. I will list it. (validation tools, mock tools, ...)
+By the way, there are many wonderful gems & tools for JSON Schema. I will list it. (validation tools, mock tools, ...)
