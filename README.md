@@ -7,6 +7,8 @@ The interface will be like https://github.com/josevalim/inherited_resources (wit
 
 The goal is to provide DRY & extendable DSL to build API endpoint from JSON schema. (Not an automatically generation, just a DSL.)
 
+The current draft of protocol is available at https://github.com/kaiinui/schematools-api_builder/blob/master/protocol.rb
+
 Other tools
 ---
 
